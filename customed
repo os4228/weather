@@ -1,4 +1,0 @@
-<a class="weatherwidget-io" href="https://forecast7.com/en/37d57126d98/seoul/" data-label_1="SEOUL" data-label_2="WEATHER" data-days="3" data-theme="beige" data-basecolor="#6D8B74" data-accent="#5F7161" data-textcolor="#EFEAD8" data-highcolor="#D0C9C0" data-lowcolor="#EFEAD8" data-suncolor="#EFEAD8" data-mooncolor="#EFEAD8" data-cloudcolor="#EFEAD8" data-cloudfill="#EFEAD8" data-raincolor="#D0C9C0" data-snowcolor="#EFEAD8" >SEOUL WEATHER</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
